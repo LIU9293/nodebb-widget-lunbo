@@ -1,4 +1,5 @@
 ### 一个简单的nodebb轮播插件
+
 ***
 安装:
 
@@ -10,6 +11,8 @@
 
 默认只有三个图片轮播，你也可以自己添加，在library.js中更改42-63行，并在public/templates/widget.tpl里面加上输入框就可以了。
 
+***
+
 Screenshot:
 
 ##### display
@@ -19,3 +22,7 @@ Screenshot:
 ##### setting
 
 ![setting](http://o6wvh2dkg.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-12%20%E4%B8%8A%E5%8D%889.47.49.png)
+
+***
+
+使用了unslider，MIT

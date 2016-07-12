@@ -17,7 +17,7 @@ Screenshot:
 
 ##### display
 
-![screen](http://o6wvh2dkg.bkt.clouddn.com/screenlunbo.png)
+![screen](http://o6wvh2dkg.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-12%20%E4%B8%8A%E5%8D%889.48.02.png)
 
 ##### setting
 

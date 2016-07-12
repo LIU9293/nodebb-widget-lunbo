@@ -6,6 +6,10 @@
   "description": "Nodebb Image Carousel Widget",
   "devDependencies": {},
   "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LIU9293/nodebb-widget-lunbo"
+  },
   "keywords": [
     "carousel",
     "image",

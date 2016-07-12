@@ -17,6 +17,7 @@ Screenshot:
 
 ##### display
 
+![screen](http://o6wvh2dkg.bkt.clouddn.com/screenlunbo.png)
 
 ##### setting
 

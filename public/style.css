@@ -1,0 +1,28 @@
+.sliderPage{
+  width:100%;
+  height:100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.unslider-wrap, .unslider-wrap li{
+  height:100%;
+}
+
+.unslider-arrow{
+  top:calc( 50% - 20px );
+  z-index: 10;
+  color:rgba(182, 203, 230, 0.74);
+}
+.unslider-arrow:hover{
+  color:rgba(182, 203, 230, 1);
+}
+
+.my-slider{
+  height:350px;width:100%;position:relative;
+}
+@media (max-width: 768px) {
+  .my-slider{
+    height:280px;
+  }
+}

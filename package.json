@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "liukai"
+  },
+  "dependencies": {},
+  "description": "Nodebb Image Carousel Widget",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "carousel",
+    "image",
+    "lunbo",
+    "nodebb",
+    "widget"
+  ],
+  "license": "MIT",
+  "main": "library.js",
+  "maintainers": [
+    {
+      "name": "liu kai",
+      "email": "lk@careerfore.com"
+    }
+  ],
+  "name": "nodebb-widget-lunbo",
+  "optionalDependencies": {},
+  "readmeFilename": "README.md",
+  "scripts": {},
+  "version": "0.0.1"
+}

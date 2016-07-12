@@ -1,0 +1,25 @@
+{
+    "id": "nodebb-widget-lunbo",
+    "name": "NodeBB Image Carousel",
+    "description": "Add a Carousel wherever you want.",
+    "library": "./library.js",
+    "staticDirs": {
+        "public": "public"
+    },
+    "hooks": [
+        { "hook": "static:app.load", "method": "init" },
+        { "hook": "filter:widgets.getWidgets", "method": "defineWidgets" },
+        { "hook": "filter:widget.render:lunbo", "method": "renderDiscordWidget" }
+    ],
+    "css": [
+    	"./public/style.css"
+    ],
+    "less":[
+      "./public/unslider/unslider.less"
+    ],
+    "templates": "./public/templates",
+    "scripts": [
+  		"./public/js/client.js",
+      "./public/js/unslider.js"
+  	]
+}

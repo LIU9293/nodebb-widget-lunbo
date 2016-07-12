@@ -6,6 +6,7 @@
     "staticDirs": {
         "public": "public"
     },
+    "url": "https://github.com/LIU9293/nodebb-widget-lunbo",
     "hooks": [
         { "hook": "static:app.load", "method": "init" },
         { "hook": "filter:widgets.getWidgets", "method": "defineWidgets" },

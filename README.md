@@ -14,8 +14,12 @@ Screenshot:
 
 ##### display
 
-![display](http://o6wvh2dkg.bkt.clouddn.com/screenlunbo.png)
+![display](https://www.careerfore.com/uploads/files/1468289726928-r43f34f43.jpg)
 
 ##### setting
 
 ![setting](http://o6wvh2dkg.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-07-12%20%E4%B8%8A%E5%8D%889.47.49.png)
+
+***
+
+使用了unslider。 MIT
